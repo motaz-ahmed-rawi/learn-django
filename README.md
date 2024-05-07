@@ -10,4 +10,4 @@ This repository aims to provide a structured learning path for individuals looki
 
 # Topics:
 
-[How to create environment and install Django and start project](wiki/How-to-create-environment-and-install-Django-and-start-project)
+[How to create environment and install Django and start project](wiki/How-to-create-envirment-and-install-django-and-start-project)
